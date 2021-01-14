@@ -7,4 +7,7 @@
 
 \f0\fs24 \cf0 Hello World,\
 \
-This is my first git file to add to my first repository.}
+This is my first git file to add to my first repository.
+This is the second line of text}
+\This is the second line of text
+
